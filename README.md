@@ -1,2 +1,2 @@
 # Projeto-HTML
-Um projeto feito em HTML somente para aprendizagem e prática.
+Um projeto feito somente em HTML para aprendizagem e prática.
